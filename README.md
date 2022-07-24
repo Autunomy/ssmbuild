@@ -1,4 +1,4 @@
-个人网站地址  www.autonomy.top
+个人网站地址  www.autunomy.top
 ### 根据狂神说教程改编的图书系统
 ### 管理员账号与密码  admin  admin
 ### 主要使用的就是mybatis+spring5+Spring MVC开发
